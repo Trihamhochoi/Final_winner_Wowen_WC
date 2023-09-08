@@ -1,0 +1,33 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result,home_rank,away_rank
+Group stage,2003-09-20,Norway,France,2,0,0,0,H,0,3,9
+Group stage,2003-09-20,Nigeria,Korea DPR,0,3,0,0,A,0,24,7
+Group stage,2003-09-20,Germany,Canada,4,1,0,0,H,0,1,11
+Group stage,2003-09-21,USA,Sweden,3,1,0,0,H,0,2,4
+Group stage,2003-09-21,Brazil,Korea Rep,3,0,0,0,H,0,6,25
+Group stage,2003-09-20,Japan,Argentina,6,0,0,0,H,0,14,38
+Group stage,2003-09-21,Australia,Russia,1,2,0,0,A,0,16,12
+Group stage,2003-09-21,China PR,Ghana,1,0,0,0,H,0,5,50
+Group stage,2003-09-24,Norway,Brazil,1,4,0,0,A,0,3,6
+Group stage,2003-09-24,Germany,Japan,3,0,0,0,H,0,1,14
+Group stage,2003-09-24,France,Korea Rep,1,0,0,0,H,0,9,25
+Group stage,2003-09-25,Ghana,Russia,0,3,0,0,A,0,50,12
+Group stage,2003-09-25,Sweden,Korea DPR,1,0,0,0,H,0,4,7
+Group stage,2003-09-25,USA,Nigeria,5,0,0,0,H,0,2,24
+Group stage,2003-09-24,Canada,Argentina,3,0,0,0,H,0,11,38
+Group stage,2003-09-25,China PR,Australia,1,1,0,0,D,0,5,16
+Group stage,2003-09-27,France,Brazil,1,1,0,0,D,0,9,6
+Group stage,2003-09-27,Korea Rep,Norway,1,7,0,0,A,0,25,3
+Group stage,2003-09-27,Canada,Japan,3,1,0,0,H,0,11,14
+Group stage,2003-09-27,Argentina,Germany,1,6,0,0,A,0,38,1
+Group stage,2003-09-28,Sweden,Nigeria,3,0,0,0,H,0,4,24
+Group stage,2003-09-28,Korea DPR,USA,0,3,0,0,A,0,7,2
+Group stage,2003-09-28,Ghana,Australia,2,1,0,0,H,0,50,16
+Group stage,2003-09-28,China PR,Russia,1,0,0,0,H,0,5,12
+Quarter-finals,2003-10-01,Brazil,Sweden,1,2,0,0,A,0,6,4
+Quarter-finals,2003-10-01,USA,Norway,1,0,0,0,H,0,2,3
+Quarter-finals,2003-10-02,Germany,Russia,7,0,0,0,H,0,1,12
+Quarter-finals,2003-10-02,China PR,Canada,0,1,0,0,A,0,5,11
+Semi-finals,2003-10-05,Germany,USA,3,0,0,0,H,0,1,2
+Semi-finals,2003-10-05,Canada,Sweden,1,2,0,0,A,0,11,4
+Third-place match,2003-10-11,USA,Canada,3,1,0,0,H,0,2,11
+Final,2003-10-12,Germany,Sweden,1,1,0,0,D,0,1,4

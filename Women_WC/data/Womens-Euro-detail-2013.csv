@@ -1,0 +1,26 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result
+Group stage,2013-07-10,Italy,Finland,0,0,0,0,D,0
+Group stage,2013-07-10,Sweden,Denmark,1,1,0,0,D,0
+Group stage,2013-07-11,Norway,Iceland,1,1,0,0,D,0
+Group stage,2013-07-11,Germany,Netherlands,0,0,0,0,D,0
+Group stage,2013-07-12,France,Russia,3,1,0,0,H,0
+Group stage,2013-07-12,England,Spain,2,3,0,0,A,0
+Group stage,2013-07-13,Italy,Denmark,2,1,0,0,H,0
+Group stage,2013-07-13,Finland,Sweden,0,5,0,0,A,0
+Group stage,2013-07-14,Norway,Netherlands,1,0,0,0,H,0
+Group stage,2013-07-14,Iceland,Germany,0,3,0,0,A,0
+Group stage,2013-07-15,England,Russia,1,1,0,0,D,0
+Group stage,2013-07-15,Spain,France,0,1,0,0,A,0
+Group stage,2013-07-16,Denmark,Finland,1,1,0,0,D,0
+Group stage,2013-07-16,Sweden,Italy,3,1,0,0,H,0
+Group stage,2013-07-17,Netherlands,Iceland,0,1,0,0,A,0
+Group stage,2013-07-17,Germany,Norway,0,1,0,0,A,0
+Group stage,2013-07-18,France,England,3,0,0,0,H,0
+Group stage,2013-07-18,Russia,Spain,1,1,0,0,D,0
+Quarter-finals,2013-07-21,Sweden,Iceland,4,0,0,0,H,0
+Quarter-finals,2013-07-21,Italy,Germany,0,1,0,0,A,0
+Quarter-finals,2013-07-22,Norway,Spain,3,1,0,0,H,0
+Quarter-finals,2013-07-22,France,Denmark,1,1,2,4,D,A
+Semi-finals,2013-07-24,Sweden,Germany,0,1,0,0,A,0
+Semi-finals,2013-07-25,Norway,Denmark,1,1,4,2,D,H
+Final,2013-07-28,Germany,Norway,1,0,0,0,H,0

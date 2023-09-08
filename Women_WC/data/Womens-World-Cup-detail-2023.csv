@@ -1,0 +1,35 @@
+Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result,home_rank,away_rank
+2023-07-20,New Zealand,Norway,1,0,0,0,H,0,26,12
+2023-07-20,Australia,Rep. of Ireland,1,0,0,0,H,0,10,22
+2023-07-21,Nigeria,Canada,0,0,0,0,D,0,40,7
+2023-07-21,Philippines,Switzerland,0,2,0,0,A,0,46,20
+2023-07-21,Spain,Costa Rica,3,0,0,0,H,0,6,36
+2023-07-22,USA,Vietnam,3,0,0,0,H,0,1,32
+2023-07-22,Zambia,Japan,0,5,0,0,A,0,77,11
+2023-07-22,England,Haiti,1,0,0,0,H,0,4,53
+2023-07-22,Denmark,China PR,1,0,0,0,H,0,13,14
+2023-07-23,Sweden,South Africa,2,1,0,0,H,0,3,54
+2023-07-23,Netherlands,Portugal,1,0,0,0,H,0,9,21
+2023-07-23,France,Jamaica,0,0,0,0,D,0,5,43
+2023-07-24,Italy,Argentina,1,0,0,0,H,0,16,28
+2023-07-24,Germany,Morocco,6,0,0,0,H,0,2,72
+2023-07-24,Brazil,Panama,4,0,0,0,H,0,8,52
+2023-07-25,Colombia,Korea Rep,2,0,0,0,H,0,25,17
+2023-07-25,New Zealand,Philippines,0,1,0,0,A,0,26,46
+2023-07-25,Switzerland,Norway,0,0,0,0,D,0,20,12
+2023-07-26,Japan,Costa Rica,2,0,0,0,H,0,11,36
+2023-07-26,Spain,Zambia,5,0,0,0,H,0,6,77
+2023-07-26,Canada,Rep. of Ireland,2,1,0,0,H,0,7,22
+2023-07-27,USA,Netherlands,1,1,0,0,D,0,1,9
+2023-07-27,Portugal,Vietnam,2,0,0,0,H,0,21,32
+2023-07-27,Australia,Nigeria,2,3,0,0,A,0,10,40
+2023-07-28,Argentina,South Africa,2,2,0,0,D,0,28,54
+2023-07-28,England,Denmark,1,0,0,0,H,0,4,13
+2023-07-28,China PR,Haiti,1,0,0,0,H,0,14,53
+2023-07-29,Sweden,Italy,5,0,0,0,H,0,3,16
+2023-07-29,France,Brazil,2,1,0,0,H,0,5,8
+2023-07-29,Panama,Jamaica,0,1,0,0,A,0,52,43
+2023-07-30,Korea Rep,Morocco,0,1,0,0,A,0,17,72
+2023-07-30,Switzerland,New Zealand,0,0,0,0,D,0,20,26
+2023-07-30,Norway,Philippines,6,0,0,0,H,0,12,46
+2023-07-30,Germany,Colombia,1,2,0,0,A,0,2,25

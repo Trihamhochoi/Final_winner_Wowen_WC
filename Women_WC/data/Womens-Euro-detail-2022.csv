@@ -1,0 +1,32 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result
+Group stage,2022-07-06,England,Austria,1,0,0,0,H,0
+Group stage,2022-07-07,Norway,Northern Ireland,4,1,0,0,H,0
+Group stage,2022-07-08,Spain,Finland,4,1,0,0,H,0
+Group stage,2022-07-08,Germany,Denmark,4,0,0,0,H,0
+Group stage,2022-07-09,Portugal,Switzerland,2,2,0,0,D,0
+Group stage,2022-07-09,Netherlands,Sweden,1,1,0,0,D,0
+Group stage,2022-07-10,Belgium,Iceland,1,1,0,0,D,0
+Group stage,2022-07-10,France,Italy,5,1,0,0,H,0
+Group stage,2022-07-11,Austria,Northern Ireland,2,0,0,0,H,0
+Group stage,2022-07-11,England,Norway,8,0,0,0,H,0
+Group stage,2022-07-12,Denmark,Finland,1,0,0,0,H,0
+Group stage,2022-07-12,Germany,Spain,2,0,0,0,H,0
+Group stage,2022-07-13,Sweden,Switzerland,2,1,0,0,H,0
+Group stage,2022-07-13,Netherlands,Portugal,3,2,0,0,H,0
+Group stage,2022-07-14,Italy,Iceland,1,1,0,0,D,0
+Group stage,2022-07-14,France,Belgium,2,1,0,0,H,0
+Group stage,2022-07-15,Northern Ireland,England,0,5,0,0,A,0
+Group stage,2022-07-15,Austria,Norway,1,0,0,0,H,0
+Group stage,2022-07-16,Finland,Germany,0,3,0,0,A,0
+Group stage,2022-07-16,Denmark,Spain,0,1,0,0,A,0
+Group stage,2022-07-17,Switzerland,Netherlands,1,4,0,0,A,0
+Group stage,2022-07-17,Sweden,Portugal,5,0,0,0,H,0
+Group stage,2022-07-18,Iceland,France,1,1,0,0,D,0
+Group stage,2022-07-18,Italy,Belgium,0,1,0,0,A,0
+Quarter-finals,2022-07-20,England,Spain,2,1,0,0,H,0
+Quarter-finals,2022-07-21,Germany,Austria,2,0,0,0,H,0
+Quarter-finals,2022-07-22,Sweden,Belgium,1,0,0,0,H,0
+Quarter-finals,2022-07-23,France,Netherlands,1,0,0,0,H,0
+Semi-finals,2022-07-26,England,Sweden,4,0,0,0,H,0
+Semi-finals,2022-07-27,Germany,France,2,1,0,0,H,0
+Final,2022-07-31,England,Germany,2,1,0,0,H,0

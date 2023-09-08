@@ -1,0 +1,32 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result
+Group stage,2017-07-16,Netherlands,Norway,1,0,0,0,H,0
+Group stage,2017-07-16,Denmark,Belgium,1,0,0,0,H,0
+Group stage,2017-07-17,Italy,Russia,1,2,0,0,A,0
+Group stage,2017-07-17,Germany,Sweden,0,0,0,0,D,0
+Group stage,2017-07-18,Austria,Switzerland,1,0,0,0,H,0
+Group stage,2017-07-18,France,Iceland,1,0,0,0,H,0
+Group stage,2017-07-19,Spain,Portugal,2,0,0,0,H,0
+Group stage,2017-07-19,England,Scotland,6,0,0,0,H,0
+Group stage,2017-07-20,Norway,Belgium,0,2,0,0,A,0
+Group stage,2017-07-20,Netherlands,Denmark,1,0,0,0,H,0
+Group stage,2017-07-21,Sweden,Russia,2,0,0,0,H,0
+Group stage,2017-07-21,Germany,Italy,2,1,0,0,H,0
+Group stage,2017-07-22,Iceland,Switzerland,1,2,0,0,A,0
+Group stage,2017-07-22,France,Austria,1,1,0,0,D,0
+Group stage,2017-07-23,Scotland,Portugal,1,2,0,0,A,0
+Group stage,2017-07-23,England,Spain,2,0,0,0,H,0
+Group stage,2017-07-24,Belgium,Netherlands,1,2,0,0,A,0
+Group stage,2017-07-24,Norway,Denmark,0,1,0,0,A,0
+Group stage,2017-07-25,Russia,Germany,0,2,0,0,A,0
+Group stage,2017-07-25,Sweden,Italy,2,3,0,0,A,0
+Group stage,2017-07-26,Iceland,Austria,0,3,0,0,A,0
+Group stage,2017-07-26,Switzerland,France,1,1,0,0,D,0
+Group stage,2017-07-27,Scotland,Spain,1,0,0,0,H,0
+Group stage,2017-07-27,Portugal,England,1,2,0,0,A,0
+Quarter-finals,2017-07-29,Netherlands,Sweden,2,0,0,0,H,0
+Quarter-finals,2017-07-30,Germany,Denmark,1,2,0,0,A,0
+Quarter-finals,2017-07-30,Austria,Spain,0,0,5,3,D,H
+Quarter-finals,2017-07-30,England,France,1,0,0,0,H,0
+Semi-finals,2017-08-03,Denmark,Austria,0,0,3,0,D,H
+Semi-finals,2017-08-03,Netherlands,England,3,0,0,0,H,0
+Final,2017-08-06,Netherlands,Denmark,4,2,0,0,H,0

@@ -1,0 +1,53 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result,home_rank,away_rank
+Group stage,2019-06-07,France,Korea Rep,4,0,0,0,H,0,4,20
+Group stage,2019-06-08,Germany,China PR,1,0,0,0,H,0,2,16
+Group stage,2019-06-08,Spain,South Africa,3,1,0,0,H,0,13,49
+Group stage,2019-06-08,Norway,Nigeria,3,0,0,0,H,0,12,36
+Group stage,2019-06-09,Australia,Italy,1,2,0,0,A,0,8,14
+Group stage,2019-06-09,Brazil,Jamaica,3,0,0,0,H,0,10,51
+Group stage,2019-06-09,England,Scotland,2,1,0,0,H,0,5,22
+Group stage,2019-06-10,Argentina,Japan,0,0,0,0,D,0,34,11
+Group stage,2019-06-10,Canada,Cameroon,1,0,0,0,H,0,7,41
+Group stage,2019-06-11,New Zealand,Netherlands,0,1,0,0,A,0,23,3
+Group stage,2019-06-11,Chile,Sweden,0,2,0,0,A,0,38,6
+Group stage,2019-06-11,USA,Thailand,13,0,0,0,H,0,1,39
+Group stage,2019-06-12,Nigeria,Korea Rep,2,0,0,0,H,0,36,20
+Group stage,2019-06-12,Germany,Spain,1,0,0,0,H,0,2,13
+Group stage,2019-06-12,France,Norway,2,1,0,0,H,0,4,12
+Group stage,2019-06-13,Australia,Brazil,3,2,0,0,H,0,8,10
+Group stage,2019-06-13,South Africa,China PR,0,1,0,0,A,0,49,16
+Group stage,2019-06-14,Japan,Scotland,2,1,0,0,H,0,11,22
+Group stage,2019-06-14,Jamaica,Italy,0,5,0,0,A,0,51,14
+Group stage,2019-06-14,England,Argentina,1,0,0,0,H,0,5,34
+Group stage,2019-06-15,Netherlands,Cameroon,3,1,0,0,H,0,3,41
+Group stage,2019-06-15,Canada,New Zealand,2,0,0,0,H,0,7,23
+Group stage,2019-06-16,Sweden,Thailand,5,1,0,0,H,0,6,39
+Group stage,2019-06-16,USA,Chile,3,0,0,0,H,0,1,38
+Group stage,2019-06-17,South Africa,Germany,0,4,0,0,A,0,49,2
+Group stage,2019-06-17,China PR,Spain,0,0,0,0,D,0,16,13
+Group stage,2019-06-17,Korea Rep,Norway,1,2,0,0,A,0,20,12
+Group stage,2019-06-17,Nigeria,France,0,1,0,0,A,0,36,4
+Group stage,2019-06-18,Italy,Brazil,0,1,0,0,A,0,14,10
+Group stage,2019-06-18,Jamaica,Australia,1,4,0,0,A,0,51,8
+Group stage,2019-06-19,Japan,England,0,2,0,0,A,0,11,5
+Group stage,2019-06-19,Scotland,Argentina,3,3,0,0,D,0,22,34
+Group stage,2019-06-20,Netherlands,Canada,2,1,0,0,H,0,3,7
+Group stage,2019-06-20,Cameroon,New Zealand,2,1,0,0,H,0,41,23
+Group stage,2019-06-20,Sweden,USA,0,2,0,0,A,0,6,1
+Group stage,2019-06-20,Thailand,Chile,0,2,0,0,A,0,39,38
+Round of 16,2019-06-22,Germany,Nigeria,3,0,0,0,H,0,2,36
+Round of 16,2019-06-22,Norway,Australia,1,1,4,1,D,H,12,8
+Round of 16,2019-06-23,England,Cameroon,3,0,0,0,H,0,5,41
+Round of 16,2019-06-23,France,Brazil,2,1,0,0,H,0,4,10
+Round of 16,2019-06-24,Spain,USA,1,2,0,0,A,0,13,1
+Round of 16,2019-06-24,Sweden,Canada,1,0,0,0,H,0,6,7
+Round of 16,2019-06-25,Italy,China PR,2,0,0,0,H,0,14,16
+Round of 16,2019-06-25,Netherlands,Japan,2,1,0,0,H,0,3,11
+Quarter-finals,2019-06-27,Norway,England,0,3,0,0,A,0,12,5
+Quarter-finals,2019-06-28,France,USA,1,2,0,0,A,0,4,1
+Quarter-finals,2019-06-29,Italy,Netherlands,0,2,0,0,A,0,14,3
+Quarter-finals,2019-06-29,Germany,Sweden,1,2,0,0,A,0,2,6
+Semi-finals,2019-07-02,England,USA,1,2,0,0,A,0,5,1
+Semi-finals,2019-07-03,Netherlands,Sweden,1,0,0,0,H,0,3,6
+Third-place match,2019-07-06,England,Sweden,1,2,0,0,A,0,5,6
+Final,2019-07-07,USA,Netherlands,2,0,0,0,H,0,1,3

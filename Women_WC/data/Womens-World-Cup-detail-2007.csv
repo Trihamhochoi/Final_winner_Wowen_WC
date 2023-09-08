@@ -1,0 +1,33 @@
+Round,Date,Home,Away,score_home,score_away,pen_home,pen_away,result,pen_result,home_rank,away_rank
+Group stage,2007-09-10,Germany,Argentina,11,0,0,0,H,0,1,28
+Group stage,2007-09-11,USA,Korea DPR,2,2,0,0,D,0,2,6
+Group stage,2007-09-11,England,Japan,2,2,0,0,D,0,10,11
+Group stage,2007-09-11,Sweden,Nigeria,1,1,0,0,D,0,4,24
+Group stage,2007-09-12,Brazil,New Zealand,5,0,0,0,H,0,3,23
+Group stage,2007-09-12,Australia,Ghana,4,1,0,0,H,0,12,45
+Group stage,2007-09-12,Norway,Canada,2,1,0,0,H,0,5,9
+Group stage,2007-09-12,China PR,Denmark,3,2,0,0,H,0,13,8
+Group stage,2007-09-14,USA,Sweden,2,0,0,0,H,0,2,4
+Group stage,2007-09-14,Argentina,Japan,0,1,0,0,A,0,28,11
+Group stage,2007-09-14,Germany,England,0,0,0,0,D,0,1,10
+Group stage,2007-09-14,Korea DPR,Nigeria,2,0,0,0,H,0,6,24
+Group stage,2007-09-15,Canada,Ghana,4,0,0,0,H,0,9,45
+Group stage,2007-09-15,Denmark,New Zealand,2,0,0,0,H,0,8,23
+Group stage,2007-09-15,China PR,Brazil,0,4,0,0,A,0,13,3
+Group stage,2007-09-15,Norway,Australia,1,1,0,0,D,0,5,12
+Group stage,2007-09-17,Japan,Germany,0,2,0,0,A,0,11,1
+Group stage,2007-09-17,Argentina,England,1,6,0,0,A,0,28,10
+Group stage,2007-09-18,Korea DPR,Sweden,1,2,0,0,A,0,6,4
+Group stage,2007-09-18,Nigeria,USA,0,1,0,0,A,0,24,2
+Group stage,2007-09-20,Norway,Ghana,7,2,0,0,H,0,5,45
+Group stage,2007-09-20,Australia,Canada,2,2,0,0,D,0,12,9
+Group stage,2007-09-20,Brazil,Denmark,1,0,0,0,H,0,3,8
+Group stage,2007-09-20,China PR,New Zealand,2,0,0,0,H,0,13,23
+Quarter-finals,2007-09-22,Germany,Korea DPR,3,0,0,0,H,0,1,6
+Quarter-finals,2007-09-22,USA,England,3,0,0,0,H,0,2,10
+Quarter-finals,2007-09-23,Norway,China PR,1,0,0,0,H,0,5,13
+Quarter-finals,2007-09-23,Brazil,Australia,3,2,0,0,H,0,3,12
+Semi-finals,2007-09-26,Germany,Norway,3,0,0,0,H,0,1,5
+Semi-finals,2007-09-27,USA,Brazil,0,4,0,0,A,0,2,3
+Third-place match,2007-09-30,Norway,USA,1,4,0,0,A,0,5,2
+Final,2007-09-30,Germany,Brazil,2,0,0,0,H,0,1,3

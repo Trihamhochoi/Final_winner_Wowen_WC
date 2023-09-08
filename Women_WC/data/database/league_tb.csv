@@ -1,0 +1,46 @@
+Tournament_id,Tournament,round_idx,Round,tour_start
+1,Algarve Cup,1,Preliminary round,2022
+1,Algarve Cup,2,Classification round,2022
+1,Algarve Cup,3,Final,2022
+2,AFC Women's Asian Cup qualification,1,not_available,2021
+3,AFC Women's Asian Cup,1,Group stage,2022
+3,AFC Women's Asian Cup,2,Play-offs,2022
+3,AFC Women's Asian Cup,3,Quarter-finals,2022
+3,AFC Women's Asian Cup,4,Semi-finals,2022
+3,AFC Women's Asian Cup,5,Final,2022
+4,SheBelieves Cup,1,not_available,2023
+5,2019 FIFA Women's World Cup,1,Group stage,2019
+5,2019 FIFA Women's World Cup,2,Round of 16,2019
+5,2019 FIFA Women's World Cup,3,Quarter-finals,2019
+5,2019 FIFA Women's World Cup,4,Semi-finals,2019
+5,2019 FIFA Women's World Cup,5,Third-place match,2019
+5,2019 FIFA Women's World Cup,6,Final,2019
+6,UEFA Women's Euro Qualification,1,Qualifying stage,2019
+6,UEFA Women's Euro Qualification,2,Play-offs,2019
+7,2021 Friendlies (W),1,not_available,2021
+8,2022 Friendlies (W),1,not_available,2022
+9,WCQ — UEFA (W),1,Group stage,2021
+9,WCQ — UEFA (W),2,First round,2021
+9,WCQ — UEFA (W),3,Second round,2021
+10,Friendlies (W),1,not_available,2023
+11,Africa Women Cup of Nations,1,Group stage,2022
+11,Africa Women Cup of Nations,2,Quarter-finals,2022
+11,Africa Women Cup of Nations,3,Semi-finals,2022
+11,Africa Women Cup of Nations,4,Third-place match,2022
+11,Africa Women Cup of Nations,5,Final,2022
+11,Africa Women Cup of Nations,6,Repechage,2022
+12,Copa América Femenina,1,Group stage,2022
+12,Copa América Femenina,2,Fifth-place match,2022
+12,Copa América Femenina,3,Semi-finals,2022
+12,Copa América Femenina,4,Third-place match,2022
+12,Copa América Femenina,5,Final,2022
+13,CONCACAF W Championship,1,Group stage,2022
+13,CONCACAF W Championship,2,Semi-finals,2022
+13,CONCACAF W Championship,3,Third-place match,2022
+13,CONCACAF W Championship,4,Final,2022
+14,UEFA Women's Euro,1,Group stage,2022
+14,UEFA Women's Euro,2,Quarter-finals,2022
+14,UEFA Women's Euro,3,Semi-finals,2022
+14,UEFA Women's Euro,4,Final,2022
+15,FIFA Women's World Cup,1,Group stage,2023
+15,FIFA Women's World Cup,2,Round of 16,2023

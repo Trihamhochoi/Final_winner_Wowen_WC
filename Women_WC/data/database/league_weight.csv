@@ -1,0 +1,51 @@
+year_league_id,league_id,round_id,tour_start,Tournament,league_name,round_name,year_weight,league_weight,round_weight,total_weight,updated_date
+0,7,1,2019,UEFA Women's Euro Qualification,UEFA Women's Euro Qualification,Qualifying stage,0,30,2,32,2023-08-28 08:55:45.637826+07:00
+0,7,2,2019,UEFA Women's Euro Qualification,UEFA Women's Euro Qualification,Play-offs,0,30,4,34,2023-08-28 08:55:45.637826+07:00
+0,12,0,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Group stage,0,50,2,52,2023-08-28 08:55:45.637826+07:00
+0,12,2,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Round of 16,0,50,4,54,2023-08-28 08:55:45.637826+07:00
+0,12,3,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Quarter-finals,0,50,6,56,2023-08-28 08:55:45.637826+07:00
+0,12,4,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Semi-finals,0,50,8,58,2023-08-28 08:55:45.637826+07:00
+0,12,5,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Final,0,50,10,60,2023-08-28 08:55:45.637826+07:00
+0,12,6,2019,2019 FIFA Women's World Cup,FIFA Women's World Cup,Third-place match,0,50,9,59,2023-08-28 08:55:45.637826+07:00
+1,1,0,2021,2021 Friendlies (W),Friendlies (W),not_available,4,20,2,26,2023-08-28 08:55:45.637826+07:00
+1,3,0,2021,AFC Women's Asian Cup qualification,AFC Women's Asian Cup qualification,not_available,4,25,2,31,2023-08-28 08:55:45.637826+07:00
+1,4,1,2021,WCQ — CONCACAF (M),WCQ — CONCACAF (M),First round,4,25,2,31,2023-08-28 08:55:45.637826+07:00
+1,4,2,2021,WCQ — CONCACAF (M),WCQ — CONCACAF (M),Second round,4,25,4,33,2023-08-28 08:55:45.637826+07:00
+1,4,3,2021,WCQ — CONCACAF (M),WCQ — CONCACAF (M),Third round,4,25,6,35,2023-08-28 08:55:45.637826+07:00
+1,10,0,2021,WCQ — UEFA (W),WCQ — UEFA (W),Group stage,4,40,2,46,2023-08-28 08:55:45.637826+07:00
+1,10,1,2021,WCQ — UEFA (W),WCQ — UEFA (W),First round,4,40,2,46,2023-08-28 08:55:45.637826+07:00
+1,10,2,2021,WCQ — UEFA (W),WCQ — UEFA (W),Second round,4,40,4,48,2023-08-28 08:55:45.637826+07:00
+2,0,1,2022,Algarve Cup,Algarve Cup,Preliminary round,8,20,2,30,2023-08-28 08:55:45.637826+07:00
+2,0,2,2022,Algarve Cup,Algarve Cup,Classification round,8,20,4,32,2023-08-28 08:55:45.637826+07:00
+2,0,5,2022,Algarve Cup,Algarve Cup,Final,8,20,10,38,2023-08-28 08:55:45.637826+07:00
+2,1,0,2022,2022 Friendlies (W),Friendlies (W),not_available,8,20,2,30,2023-08-28 08:55:45.637826+07:00
+2,5,0,2022,AFC Women's Asian Cup,AFC Women's Asian Cup,Group stage,8,30,2,40,2023-08-28 08:55:45.637826+07:00
+2,5,2,2022,AFC Women's Asian Cup,AFC Women's Asian Cup,Play-offs,8,30,4,42,2023-08-28 08:55:45.637826+07:00
+2,5,3,2022,AFC Women's Asian Cup,AFC Women's Asian Cup,Quarter-finals,8,30,6,44,2023-08-28 08:55:45.637826+07:00
+2,5,4,2022,AFC Women's Asian Cup,AFC Women's Asian Cup,Semi-finals,8,30,8,46,2023-08-28 08:55:45.637826+07:00
+2,5,5,2022,AFC Women's Asian Cup,AFC Women's Asian Cup,Final,8,30,10,48,2023-08-28 08:55:45.637826+07:00
+2,6,0,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Group stage,8,30,2,40,2023-08-28 08:55:45.637826+07:00
+2,6,2,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Repechage,8,30,4,42,2023-08-28 08:55:45.637826+07:00
+2,6,3,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Quarter-finals,8,30,6,44,2023-08-28 08:55:45.637826+07:00
+2,6,4,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Semi-finals,8,30,8,46,2023-08-28 08:55:45.637826+07:00
+2,6,5,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Final,8,30,10,48,2023-08-28 08:55:45.637826+07:00
+2,6,6,2022,Africa Women Cup of Nations,Africa Women Cup of Nations,Third-place match,8,30,9,47,2023-08-28 08:55:45.637826+07:00
+2,8,0,2022,CONCACAF W Championship,CONCACAF W Championship,Group stage,8,35,2,45,2023-08-28 08:55:45.637826+07:00
+2,8,4,2022,CONCACAF W Championship,CONCACAF W Championship,Semi-finals,8,35,8,51,2023-08-28 08:55:45.637826+07:00
+2,8,5,2022,CONCACAF W Championship,CONCACAF W Championship,Final,8,35,10,53,2023-08-28 08:55:45.637826+07:00
+2,8,6,2022,CONCACAF W Championship,CONCACAF W Championship,Third-place match,8,35,9,52,2023-08-28 08:55:45.637826+07:00
+2,9,0,2022,Copa América Femenina,Copa América Femenina,Group stage,8,35,2,45,2023-08-28 08:55:45.637826+07:00
+2,9,3,2022,Copa América Femenina,Copa América Femenina,Fifth-place match,8,35,6,49,2023-08-28 08:55:45.637826+07:00
+2,9,4,2022,Copa América Femenina,Copa América Femenina,Semi-finals,8,35,8,51,2023-08-28 08:55:45.637826+07:00
+2,9,5,2022,Copa América Femenina,Copa América Femenina,Final,8,35,10,53,2023-08-28 08:55:45.637826+07:00
+2,9,6,2022,Copa América Femenina,Copa América Femenina,Third-place match,8,35,9,52,2023-08-28 08:55:45.637826+07:00
+2,11,0,2022,UEFA Women's Euro,UEFA Women's Euro,Group stage,8,45,2,55,2023-08-28 08:55:45.637826+07:00
+2,11,3,2022,UEFA Women's Euro,UEFA Women's Euro,Quarter-finals,8,45,6,59,2023-08-28 08:55:45.637826+07:00
+2,11,4,2022,UEFA Women's Euro,UEFA Women's Euro,Semi-finals,8,45,8,61,2023-08-28 08:55:45.637826+07:00
+2,11,5,2022,UEFA Women's Euro,UEFA Women's Euro,Final,8,45,10,63,2023-08-28 08:55:45.637826+07:00
+3,1,0,2023,Friendlies (W),Friendlies (W),not_available,12,20,2,34,2023-08-28 08:55:45.637826+07:00
+3,2,0,2023,SheBelieves Cup,SheBelieves Cup,not_available,12,20,2,34,2023-08-28 08:55:45.637826+07:00
+3,12,0,2023,FIFA Women's World Cup,FIFA Women's World Cup,Group stage,12,50,2,64,2023-08-28 08:55:45.637826+07:00
+3,12,2,2023,FIFA Women's World Cup,FIFA Women's World Cup,Round of 16,12,50,4,66,2023-08-28 08:55:45.637826+07:00
+3,12,3,2023,FIFA Women's World Cup,FIFA Women's World Cup,Quarter-finals,12,50,6,68,2023-08-28 08:55:45.637826+07:00
+3,12,4,2023,FIFA Women's World Cup,FIFA Women's World Cup,Semi-finals,12,50,8,70,2023-08-28 08:55:45.637826+07:00
